@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
